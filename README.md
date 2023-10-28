@@ -1,6 +1,6 @@
 # Лабы по курсам Deep Learning School (МФТИ) и Глубинное Обучение (ШАД)
 
-# Глубинное Обучение (ШАД)
+## Глубинное Обучение (ШАД)
 
 * [PyTorch and Tensors basics](https://github.com/Alexdemenev/deep_learning_hometasks/blob/main/homework.ipynb)
 
@@ -23,3 +23,19 @@
 * [FineTuned models](https://github.com/Alexdemenev/deep_learning_hometasks/blob/main/pre_trained_models.ipynb)
 
   Дообучение нейросетей под собственные задачи
+
+## Deep Learning School (МФТИ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
