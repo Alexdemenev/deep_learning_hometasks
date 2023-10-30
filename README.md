@@ -1,6 +1,6 @@
 # Лабы по курсам Deep Learning School (МФТИ) и Глубинное Обучение (ШАД)
 
-## Глубинное Обучение (ШАД)
+## [Глубинное Обучение (ШАД)](https://github.com/yandexdataschool/Practical_DL)
 
 * [PyTorch and Tensors basics](https://github.com/Alexdemenev/deep_learning_hometasks/blob/main/homework.ipynb)
 
@@ -24,9 +24,15 @@
 
   Дообучение нейросетей под собственные задачи
 
-## Deep Learning School (МФТИ)
+## [Deep Learning School (МФТИ)](https://stepik.org/course/181974/info)
 
+* [Линейные алгоритмы](https://github.com/Alexdemenev/deep_learning_hometasks/blob/main/linear_models_fall_hw_ipynb_.ipynb)
 
+  Линейные модели, logloss и градиентный спуск.
+
+  * [Сверточные и полносвязные нейронные сети](https://github.com/Alexdemenev/deep_learning_hometasks/blob/main/%5Bhomework%5Ddense_and_convolutional_nn.ipynb)
+
+  Построение нейронных сетей с помощью библиотеки Pytorch на датасетах moons и MNIST.
 
 
 
