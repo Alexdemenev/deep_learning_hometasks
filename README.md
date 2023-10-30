@@ -30,7 +30,7 @@
 
   Линейные модели, logloss и градиентный спуск.
 
-  * [Сверточные и полносвязные нейронные сети](https://github.com/Alexdemenev/deep_learning_hometasks/blob/main/%5Bhomework%5Ddense_and_convolutional_nn.ipynb)
+* [Сверточные и полносвязные нейронные сети](https://github.com/Alexdemenev/deep_learning_hometasks/blob/main/%5Bhomework%5Ddense_and_convolutional_nn.ipynb)
 
   Построение нейронных сетей с помощью библиотеки Pytorch на датасетах moons и MNIST.
 
