@@ -42,7 +42,9 @@
 
   Алгоритмы сегментации на примере датасета [ADDI](https://www.fc.up.pt/addi/ph2%20database.html)
 
+* [Автоэнкодеры, VAE](https://colab.research.google.com/drive/1GD_5IIWpTe6GyuUnTD75b71Dmq1dVvT4?usp=sharing)
 
+* [Генеративно-состязательные модели, архитектура, inference на примере датасета лиц](https://github.com/Alexdemenev/deep_learning_hometasks/blob/main/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_%5Bhw%5Dgan.ipynb)
 
 
 
