@@ -34,6 +34,10 @@
 
   Построение нейронных сетей с помощью библиотеки Pytorch на датасетах moons и MNIST.
 
+* [Соревнование Kuggle, класификация изображений](https://github.com/Alexdemenev/deep_learning_hometasks/blob/main/kuggle_simpsons_baseline.ipynb)
+
+  Классификация изображений Симпсонов с помощью файнтьюнинга ResNet
+*
 
 
 
