@@ -37,7 +37,10 @@
 * [Соревнование Kuggle, класификация изображений](https://github.com/Alexdemenev/deep_learning_hometasks/blob/main/kuggle_simpsons_baseline.ipynb)
 
   Классификация изображений Симпсонов с помощью файнтьюнинга ResNet
-*
+
+* [Сегментация изображений, Loss functions](https://github.com/Alexdemenev/deep_learning_hometasks/blob/main/hw_semantic_segmentation_ipynb_.ipynb)
+
+  Алгоритмы сегментации на примере датасета [ADDI](https://www.fc.up.pt/addi/ph2%20database.html)
 
 
 
